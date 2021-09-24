@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" ?>
+<log>
+	<event date=" 27/May/1999:02:32:46 " result="success">
+		<ip-from> 195.151.62.18 </ip-from>
+		<method>GET</method>
+		<url-to> /misc/</url-to>
+		<response>200</response>
+	</event>
+	<event date=" 27/May/1999:02:41:47 " result="success">
+		<ip-from> 195.209.248.12 </ip-from>
+		<method>GET</method>
+		<url-to> /soft.htm</url-to>
+		<response>200</response>
+	</event>
+</log>
