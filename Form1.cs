@@ -88,7 +88,7 @@ namespace Vasilev2
             return AddEvent(element_values);
         }
 
-        public static Event AddEvent (string[] values) //Побочная, осталась с другого варианта, но оставил
+        public static Event AddEvent (string[] values) //Побочная, осталась с другого варианта решения, но оставил
         {
             Event OneEvent = new Event();
             for (int i = 2; i< values.Length; i++)
